@@ -1,0 +1,152 @@
+@media (max-width: 480px) {
+    .logo {
+        font-size: 20px;
+    }
+    .logo img {
+        width: 36px;
+        padding: 0px 5px 5px;
+    }
+    .custom_list {
+        margin-left: unset;
+        text-align: center;
+    }
+    .almex_signup {
+        text-align: center;
+    }
+    .almex_text {
+        padding: 90px 0px 10px;
+        text-transform: capitalize;
+        color: #f9f9f9;
+    }
+    .almex_img img {
+        width: 80%;
+        padding: 40px 0px 0px;
+    }
+    .client_imgproject img {
+        width: 90%;
+    }
+    .client_iconbox {
+        background-color: #EC583A;
+        width: 35%;
+        text-align: center;
+        padding: 25px 5px 20px 10px;
+        margin: 25px;
+    }
+    .client_iconbox img {
+        width: 50%;
+    }
+    .client_iconbox2 {
+        background-color: #EC583A;
+        width: 35%;
+        text-align: center;
+        padding: 25px 5px 20px 10px;
+        margin: 25px;
+    }
+    .client_iconbox2 img {
+        width: 50%;
+    }
+    .client_iconbox3 {
+        background-color: #EC583A;
+        width: 35%;
+        text-align: center;
+        padding: 25px 5px 20px 10px;
+        margin: 25px;
+    }
+    .client_iconbox4 {
+        background-color: #EC583A;
+        width: 35%;
+        text-align: center;
+        padding: 25px 5px 20px 10px;
+        margin: 25px;
+    }
+    .client_iconbox3 img {
+        width: 50%;
+    }
+    .client_iconbox4 img {
+        width: 50%;
+    }
+    .custom_provide {
+        padding: 5px 0px 0px;
+        margin: 5px;
+        text-align: center;
+    }
+    .custom_provide h4 {
+        font-size: 25px;
+        font-weight: 500;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .custom_provide p {
+        font-size: 20px;
+        color: #6f6f6f;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .provide_img {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .email_img img {
+        width: 90%;
+    }
+    .trust_text p {
+        font-size: 16px;
+        color: #6f6f6f;
+        text-align: left;
+        line-height: 1.4;
+    }
+    .have_card {
+        text-align: center;
+        background-color: #ffff;
+        width: 100%;
+        box-shadow: 5px 5px 5px;
+        height: 80%;
+        padding: 26px;
+        margin: 35px 0px 10px;
+    }
+    .footer_copy ul li a {
+        padding: 20px;
+        text-decoration: none;
+        color: #000;
+    }
+    .footer_copy2 {
+        margin: 10px;
+        padding: 4px;
+        font-size: 13px;
+    }
+    video {
+        margin: 25px 25px 25px;
+    }
+    .footer_copy ul {
+        display: flex;
+        list-style-type: none;
+        margin: 10px;
+        padding: 5px;
+    }
+}
+@media (max-width: 575.98px) {  }
+
+@media (max-width: 767.98px) {  }
+
+@media (max-width: 991.98px) { }
+
+
+@media (max-width: 1199.98px) { }
+
+@media (max-width: 1399.98px) { }
+
+@media (min-width: 480px) {
+  }
+@media (min-width: 576px) {}
+
+
+@media (min-width: 768px) {}
+
+
+@media (min-width: 992px) { }
+
+
+@media (min-width: 1200px) {}
+
+
+@media (min-width: 1400px) { }
